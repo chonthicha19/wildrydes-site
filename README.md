@@ -1,2 +1,6 @@
 # wildrydes-site
-ทดสอบการทำ แลมด้า โมดูลที่ 1
+
+I hope everything will pass ;-;
+I like :dog:
+
+This file for lambda modlue 1
